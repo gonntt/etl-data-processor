@@ -1,0 +1,2 @@
+# Bibliotecas mínimas para o pipeline ETL básico
+# Nenhuma dependência externa é necessária para este exemplo
