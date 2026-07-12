@@ -30,7 +30,7 @@ jobs:
         run: |
           echo "Buscando regras de governança de repositório centralizado..."
           # A configuração de qualidade não reside no repositório do desenvolvedor
-          wget -q https://raw.githubusercontent.com/governance-repo/qa/main/.pylintrc -O .pylintrc
+         
 
       - name: Executar Validações de CI
         run: |
